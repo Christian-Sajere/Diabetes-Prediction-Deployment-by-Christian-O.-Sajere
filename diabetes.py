@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 
 
 #load the data
-df=pd.read_csv('New folder/diabetes.csv')
+df=pd.read_csv('diabetes.csv')
 
 X = df.iloc[:,1:8].values
 Y=df.iloc[:,8].values
