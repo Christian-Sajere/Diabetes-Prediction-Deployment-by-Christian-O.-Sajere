@@ -4,7 +4,7 @@ diabetes Prediction using Maching Learning
 Please make sure you have the following installed
 
 
-pip install streamlit as st
+pip install streamlit 
 
 pip install numpy 
 
